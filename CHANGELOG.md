@@ -8,6 +8,14 @@ adding one is a minor release. Before 1.0, a minor release may do either.
 
 ## [Unreleased]
 
+## [0.1.1] — 2026-10-06
+
+### Fixed
+
+- The MCP Registry refused 0.1.0's listing: `server.json`'s description ran to 104
+  characters and the registry takes at most 100. It is shortened, and a test now
+  holds the limit. 0.1.0 reached PyPI unchanged; no code differs.
+
 ## [0.1.0] — 2026-10-05
 
 First release.

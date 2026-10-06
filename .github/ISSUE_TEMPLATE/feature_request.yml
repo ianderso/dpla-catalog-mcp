@@ -1,0 +1,25 @@
+name: Feature request
+description: A research question the tools cannot answer yet.
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Tools that write anywhere, that request keys, or that work around an institution's refusal of automated requests will not be merged. See "Out of scope, by decision" in [docs/DESIGN.md](https://github.com/ianderso/dpla-catalog-mcp/blob/main/docs/DESIGN.md).
+  - type: textarea
+    id: problem
+    attributes:
+      label: The research problem
+      description: What you were trying to find or read, and where the current tools stopped you.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What would help
+      description: A new tool, a new parameter, or a change to what a tool returns.
+  - type: textarea
+    id: api
+    attributes:
+      label: DPLA field or parameter
+      description: If you know which DPLA field or parameter would answer it. docs/API-NOTES.md lists what the server sends and what was observed of it.

@@ -1,0 +1,93 @@
+{
+ "count": 3,
+ "docs": [
+  {
+   "dataProvider": {
+    "@id": "http://dp.la/api/contributor/university-of-south-dakota",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q1305521"
+    ],
+    "name": "University of South Dakota"
+   },
+   "id": "20069ca7aad698aba1d47e1354551b4a",
+   "intermediateProvider": "Digital Library of South Dakota",
+   "isShownAt": "http://explore.digitalsd.org/cdm/ref/collection/chilson/id/589",
+   "object": "http://explore.digitalsd.org/utils/getthumbnail/collection/chilson/id/589",
+   "provider": {
+    "@id": "http://dp.la/api/contributor/mdl",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q83878485"
+    ],
+    "name": "Minnesota Digital Library"
+   },
+   "rights": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+   "sourceResource.creator": "Geo. A. Ogle & Co",
+   "sourceResource.date.displayDate": "1912",
+   "sourceResource.title": "Standard atlas of Clay County, South Dakota: including a plat book of the villages, cities and townships of the county, map of the state, United States and world, patrons directory, reference business directory and departments devoted to general information, analysis of the system of U. S. Land Survey, digest of the system of civil government, etc.",
+   "sourceResource.type": "text"
+  },
+  {
+   "dataProvider": {
+    "@id": "http://dp.la/api/contributor/south-dakota-state-university",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q2302260"
+    ],
+    "name": "South Dakota State University"
+   },
+   "id": "43226514371dbddebd4bd3672f0567b0",
+   "intermediateProvider": "Digital Library of South Dakota",
+   "isShownAt": "http://explore.digitalsd.org/cdm/ref/collection/Regional/id/1159",
+   "object": "http://explore.digitalsd.org/utils/getthumbnail/collection/Regional/id/1159",
+   "provider": {
+    "@id": "http://dp.la/api/contributor/mdl",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q83878485"
+    ],
+    "name": "Minnesota Digital Library"
+   },
+   "rights": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+   "sourceResource.creator": "Geo. A Ogle and Co",
+   "sourceResource.date.displayDate": "1909",
+   "sourceResource.format": "Col. maps, ill., ports., 45 cm.",
+   "sourceResource.spatial": {
+    "coordinates": "44.33361, -96.80472",
+    "name": "Coteau des Prairies"
+   },
+   "sourceResource.title": "Standard atlas of Brookings County, South Dakota",
+   "sourceResource.type": "text"
+  },
+  {
+   "dataProvider": {
+    "@id": "http://dp.la/api/contributor/south-dakota-state-university",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q2302260"
+    ],
+    "name": "South Dakota State University"
+   },
+   "id": "2d3ccd21cdf7079252773731967409a7",
+   "intermediateProvider": "Digital Library of South Dakota",
+   "isShownAt": "http://explore.digitalsd.org/cdm/ref/collection/Regional/id/1199",
+   "object": "http://explore.digitalsd.org/utils/getthumbnail/collection/Regional/id/1199",
+   "provider": {
+    "@id": "http://dp.la/api/contributor/mdl",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q83878485"
+    ],
+    "name": "Minnesota Digital Library"
+   },
+   "rights": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+   "sourceResource.creator": "Geo. A Ogle and Co",
+   "sourceResource.date.displayDate": "1909",
+   "sourceResource.format": "Col. maps, ill., ports., 45 cm.",
+   "sourceResource.spatial": {
+    "coordinates": "44.35154, -97.82792",
+    "name": "Lake Iroquois"
+   },
+   "sourceResource.title": "Standard atlas of Kingsbury County, South Dakota",
+   "sourceResource.type": "text"
+  }
+ ],
+ "facets": [],
+ "limit": 3,
+ "start": 1
+}

@@ -1,0 +1,53 @@
+{
+ "count": 1999,
+ "docs": [],
+ "facets": {
+  "dataProvider.name": {
+   "_type": "terms",
+   "terms": [
+    {
+     "count": 417,
+     "term": "Minnesota Historical Society"
+    },
+    {
+     "count": 280,
+     "term": "David Rumsey"
+    },
+    {
+     "count": 256,
+     "term": "The Charleston Archive at CCPL"
+    },
+    {
+     "count": 161,
+     "term": "Missouri Historical Society"
+    },
+    {
+     "count": 115,
+     "term": "University of Minnesota Libraries"
+    },
+    {
+     "count": 102,
+     "term": "Indiana State Library"
+    },
+    {
+     "count": 94,
+     "term": "University of Illinois"
+    },
+    {
+     "count": 70,
+     "term": "University of Michigan. Libraries"
+    },
+    {
+     "count": 67,
+     "term": "University of Michigan"
+    },
+    {
+     "count": 59,
+     "term": "The Trenton Free Public Library"
+    }
+   ]
+  }
+ },
+ "limit": 0,
+ "start": 1
+}

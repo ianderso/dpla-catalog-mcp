@@ -1,0 +1,46 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.ianderso/dpla-catalog-mcp",
+  "title": "DPLA Catalog",
+  "description": "Search the Digital Public Library of America and reach the holding institution's record and page images.",
+  "repository": {
+    "url": "https://github.com/ianderso/dpla-catalog-mcp",
+    "source": "github"
+  },
+  "version": "0.1.0",
+  "packages": [
+    {
+      "registryType": "pypi",
+      "registryBaseUrl": "https://pypi.org",
+      "identifier": "dpla-catalog-mcp",
+      "version": "0.1.0",
+      "runtimeHint": "uvx",
+      "transport": {
+        "type": "stdio"
+      },
+      "environmentVariables": [
+        {
+          "name": "DPLA_API_KEY",
+          "description": "Your DPLA API key: 32 letters, digits or hyphens. Free; request it with POST https://api.dp.la/v2/api_key/YOUR_EMAIL and it arrives by email.",
+          "isRequired": true,
+          "isSecret": true
+        },
+        {
+          "name": "DPLA_CACHE_DIR",
+          "description": "Directory for the on-disk response cache.",
+          "default": "~/.cache/dpla-catalog-mcp"
+        },
+        {
+          "name": "DPLA_TIMEOUT",
+          "description": "HTTP timeout in seconds.",
+          "default": "30"
+        },
+        {
+          "name": "DPLA_MIN_INTERVAL",
+          "description": "Least seconds between the start of one request to DPLA and the next.",
+          "default": "0.25"
+        }
+      ]
+    }
+  ]
+}

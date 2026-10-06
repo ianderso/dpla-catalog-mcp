@@ -1,0 +1,97 @@
+{
+ "count": 1,
+ "docs": [
+  {
+   "@context": "http://dp.la/api/items/context",
+   "@id": "http://dp.la/api/items/5e4b30238fc58d1689d8009ef143ee90",
+   "@type": "ore:Aggregation",
+   "aggregatedCHO": "#sourceResource",
+   "dataProvider": {
+    "@id": "http://dp.la/api/contributor/dartmouth-libraries",
+    "name": "Dartmouth Libraries"
+   },
+   "harvestDate": "2026-10-01T20:30:52Z",
+   "id": "5e4b30238fc58d1689d8009ef143ee90",
+   "iiifManifest": "https://collections.dartmouth.edu/archive/iiif/nh-cities-towns/nh-cities-towns-northumberland-1793-mods.json",
+   "ingestDate": "2026-10-01T22:35:52.485Z",
+   "ingestType": "item",
+   "isShownAt": "https://doi.org/10.1349/ddlp.2112",
+   "object": "https://collections.dartmouth.edu/xcdas-derivative/nh-cities-towns/jpeg-160x120/nhct-northumberland-1793-001.jpg",
+   "originalRecord": {
+    "stringValue": "<record>\n  <header \n  xmlns=\"http://www.openarchives.org/OAI/2.0/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\n    <identifier>\n      oai:ddlp-id:nh-cities-towns/nh-cities-towns-northumberland-1793\n    </identifier>\n    <datestamp>2026-09-29T22:40:12.103Z</datestamp>\n    <setSpec>ddlp-collections:nh-cities-towns</setSpec>\n</header>\n  <metadata \n  xmlns=\"http://www.openarchives.org/OAI/2.0/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\n    <mods:mods \n    xsi:schemaLocation=\"http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd     http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd\" version=\"3.6\" xmlns:cmd=\"http://www.cdlib.org/inside/diglib/copyrightMD\" xmlns:drb=\"http://www.dartmouth.edu/~library/catmet/\" xmlns:mods=\"http://www.loc.gov/mods/v3\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n      <mods:titleInfo>\n        <mods:title>Map of Northumberland</mods:title>\n      </mods:titleInfo>\n      <mods:name type=\"personal\" authority=\"naf\">\n        <mods:namePart type=\"family\">Eames</mods:namePart>\n        <mods:namePart type=\"given\">Jeremiah.</mods:namePart>\n      </mods:name>\n      <mods:name \n      type=\"corporate\" authority=\"naf\" valueURI=\"http://id.loc.gov/authorities/names/no2017050148\">\n        <mods:namePart>Dartmouth Digital Library Program</mods:namePart>\n        <mods:role>\n          <mods:roleTerm type=\"text\" authority=\"marcrelator\">repository</mods:roleTerm>\n        </mods:role>\n</mods:name>\n      <mods:typeOfResource>cartographic</mods:typeOfResource>\n      <mods:genre type=\"content\" authority=\"rdacontent\">\n        cartographic image\n      </mods:genre>\n      <mods:genre authority=\"marcgt\">map</mods:genre>\n      <mods:originInfo eventType=\"publication\">\n        <mods:publisher>Trustees of Dartmouth College</mods:publisher>\n        <mods:place>\n          <mods:placeTerm type=\"text\">Hanover, N.H.</mods:placeTerm>\n          <mods:placeTerm type=\"code\" authority=\"marccountry\">nhu</mods:placeTerm>\n        </mods:place>\n        <mods:dateIssued encoding=\"w3cdtf\" keyDate=\"yes\">2019</mods:dateIssued>\n      </mods:originInfo>\n      <mods:language>\n        <mods:languageTerm type=\"text\">English</mods:languageTerm>\n        <mods:languageTerm type=\"code\" authority=\"iso639-2b\">eng</mods:languageTerm>\n      </mods:language>\n      <mods:physicalDescription>\n        <mods:form type=\"media\" authority=\"rdamedia\">computer</mods:form>\n        <mods:form type=\"carrier\" authority=\"rdacarrier\">online resource</mods:form>\n        <mods:internetMediaType>image/jp2</mods:internetMediaType>\n        <mods:extent>1 online resource (1 map)</mods:extent>\n        <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>\n      </mods:physicalDescription>\n      <mods:note>\n        Shows Hurd's Location and allotments to other proprietors\n      </mods:note>\n      <mods:note>\n        Title from panel of backing which was applied after the original paper of the map began to deteriorate\n      </mods:note>\n      <mods:note>Probable surveyor: Jeremiah Eames, Jr</mods:note>\n      <mods:subject authority=\"lcsh\">\n        <mods:geographic>Northumberland (N.H.)</mods:geographic>\n        <mods:geographicCode authority=\"marcgac\">n-us-nh</mods:geographicCode>\n      </mods:subject>\n      <mods:subject authority=\"lcsh\">\n        <mods:geographic>Hurd's Location (N.H.)</mods:geographic>\n        <mods:geographicCode authority=\"marcgac\">n-us-nh</mods:geographicCode>\n      </mods:subject>\n      <mods:subject authority=\"lcsh\">\n        <mods:topic>Real property</mods:topic>\n        <mods:geographic>New Hampshire</mods:geographic>\n        <mods:geographic>Northumberland</mods:geographic>\n      </mods:subject>\n      <mods:subject>\n        <mods:cartographics>\n          <mods:scale>Scale approximately 1:17,500</mods:scale>\n          <mods:coordinates>W 71°36'--W 71°30'/N 44°37'--N 44°32'</mods:coordinates>\n        </mods:cartographics>\n      </mods:subject>\n      <mods:classification authority=\"lcc\">G3744.N6 1793a .M36</mods:classification>\n      <mods:relatedItem type=\"host\">\n        <mods:titleInfo>\n          <mods:title>New Hampshire's Towns &amp; Cities in Maps</mods:title>\n        </mods:titleInfo>\n        <mods:typeOfResource collection=\"yes\">cartographic</mods:typeOfResource>\n        <mods:identifier type=\"doi\">https://doi.org/10.1349/ddlp.3786</mods:identifier>\n        <mods:location>\n          <mods:url usage=\"primary\" access=\"object in context\">\n            https://collections.dartmouth.edu/archive/browse/nh-cities-towns\n          </mods:url>\n        </mods:location>\n      </mods:relatedItem>\n      <mods:relatedItem type=\"original\" displayLabel=\"Print version:\">\n        <mods:originInfo eventType=\"publication\">\n          <mods:place supplied=\"yes\">\n            <mods:placeTerm type=\"text\">\n              Place of publication not identified\n            </mods:placeTerm>\n          </mods:place>\n          <mods:publisher supplied=\"yes\">publisher not identified</mods:publisher>\n          <mods:dateCreated encoding=\"marc\">[1793?]</mods:dateCreated>\n          <mods:dateCreated encoding=\"w3cdtf\" qualifier=\"questionable\">\n            1793\n          </mods:dateCreated>\n          <mods:dateIssued encoding=\"fast\">Eighteenth century</mods:dateIssued>\n        </mods:originInfo>\n        <mods:physicalDescription>\n          <mods:extent>1 map</mods:extent>\n          <mods:note type=\"other physical details\">\n            manuscript, mounted on paper\n          </mods:note>\n          <mods:note type=\"dimensions\">43 x 52 cm, folded to 12 x 9 cm</mods:note>\n        </mods:physicalDescription>\n      </mods:relatedItem>\n      <mods:identifier type=\"doi\" displayLabel=\"Electronic map\">\n        https://doi.org/10.1349/ddlp.2112\n      </mods:identifier>\n      <mods:location>\n        <mods:url access=\"preview\">\n          /xcdas-derivative/nh-cities-towns/jpeg-160x120/nhct-northumberland-1793-001.jpg\n        </mods:url>\n      </mods:location>\n      <mods:location>\n        <mods:url note=\"IIIF manifest\">\n          https://collections.dartmouth.edu/archive/iiif/nh-cities-towns/nh-cities-towns-northumberland-1793-mods.json\n        </mods:url>\n      </mods:location>\n      <mods:accessCondition type=\"use and reproduction\">\n        The organization that has made the material available believes that the material is in the Public Domain under the laws of the United States. No determination was made as to its copyright status under the copyright laws of other countries.\n      </mods:accessCondition>\n      <mods:accessCondition \n      type=\"use and reproduction\" displayLabel=\"Standardized rights statement\" xlink:href=\"http://rightsstatements.org/vocab/NoC-US/1.0/\">\n        No Copyright - United States\n</mods:accessCondition>\n      <mods:accessCondition>\n        <cmd:copyright copyright.status=\"pd\" publication.status=\"published\"/>\n      </mods:accessCondition>\n      <mods:recordInfo>\n        <mods:descriptionStandard authority=\"marcdescription\">\n          aacr\n        </mods:descriptionStandard>\n        <mods:recordContentSource authority=\"oclcorg\">DRB</mods:recordContentSource>\n        <mods:recordCreationDate encoding=\"w3cdtf\">2019-06-25</mods:recordCreationDate>\n        <mods:recordChangeDate encoding=\"w3cdtf\">2023-02-08</mods:recordChangeDate>\n        <mods:recordOrigin>\n          Record created through conversion from MARC via OpenRefine.\n        </mods:recordOrigin>\n        <mods:recordIdentifier source=\"DRB\">\n          nh-cities-towns-northumberland-1793\n        </mods:recordIdentifier>\n        <mods:languageOfCataloging>\n          <mods:languageTerm type=\"text\">English</mods:languageTerm>\n          <mods:languageTerm type=\"code\" authority=\"iso639-2b\">eng</mods:languageTerm>\n        </mods:languageOfCataloging>\n      </mods:recordInfo>\n</mods:mods>\n</metadata>\n  <about>\n    <request verb=\"ListRecords\" metadataPrefix=\"mods\"/>\n    <resumptionToken>\n      r|mods||||oai:ddlp-id:nh-cities-towns/nh-cities-towns-nashua-1842\n    </resumptionToken>\n    <responseDate>2026-10-01T21:52:13.055Z</responseDate>\n  </about>\n</record>"
+   },
+   "provider": {
+    "@id": "http://dp.la/api/contributor/dartmouth",
+    "name": "Dartmouth Libraries"
+   },
+   "rights": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+   "rightsCategory": "Unlimited Re-Use",
+   "sourceResource": {
+    "@id": "http://dp.la/api/items/5e4b30238fc58d1689d8009ef143ee90#SourceResource",
+    "collection": [
+     {
+      "title": "New Hampshire's Towns & Cities in Maps"
+     }
+    ],
+    "contributor": [
+     "Eames, Jeremiah"
+    ],
+    "date": [
+     {
+      "begin": "1793",
+      "displayDate": "1793",
+      "end": "1793"
+     }
+    ],
+    "extent": [
+     "1 online resource (1 map)"
+    ],
+    "language": [
+     {
+      "iso639_3": "English",
+      "name": "English"
+     }
+    ],
+    "publisher": [
+     "Trustees of Dartmouth College"
+    ],
+    "rights": [
+     "The organization that has made the material available believes that the material is in the Public Domain under the laws of the United States. No determination was made as to its copyright status under the copyright laws of other countries.",
+     "No Copyright - United States"
+    ],
+    "spatial": [
+     {
+      "name": "Hanover, N.H."
+     },
+     {
+      "name": "Northumberland (N.H.)"
+     },
+     {
+      "name": "Hurd's Location (N.H.)"
+     },
+     {
+      "name": "New Hampshire"
+     },
+     {
+      "name": "Northumberland"
+     },
+     {}
+    ],
+    "subject": [
+     {
+      "name": "Real property"
+     }
+    ],
+    "title": [
+     "Map of Northumberland"
+    ],
+    "type": [
+     "image"
+    ]
+   },
+   "tags": [
+    "iiif"
+   ]
+  }
+ ]
+}

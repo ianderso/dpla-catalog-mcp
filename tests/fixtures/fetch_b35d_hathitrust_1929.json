@@ -1,0 +1,90 @@
+{
+ "count": 1,
+ "docs": [
+  {
+   "@context": "http://dp.la/api/items/context",
+   "@id": "http://dp.la/api/items/b35d7d4066dbb76bff2ce7ab93eca613",
+   "@type": "ore:Aggregation",
+   "aggregatedCHO": "#sourceResource",
+   "dataProvider": {
+    "@id": "http://dp.la/api/contributor/university-of-illinois",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q457281"
+    ],
+    "name": "University of Illinois"
+   },
+   "id": "b35d7d4066dbb76bff2ce7ab93eca613",
+   "ingestDate": "2026-08-19T02:02:07.522Z",
+   "ingestType": "item",
+   "isShownAt": "http://catalog.hathitrust.org/Record/103030935",
+   "originalRecord": {
+    "stringValue": "<record>\n  <header \n  xmlns=\"http://www.openarchives.org/OAI/2.0/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\n    <identifier>oai:hathitrust.org:103030935</identifier>\n    <datestamp>2025-01-17T00:00:00Z</datestamp>\n    <setSpec>hathitrust:pd</setSpec>\n    <setSpec>hathitrust:pdus</setSpec>\n    <setSpec>hathitrust</setSpec>\n</header>\n  <metadata \n  xmlns=\"http://www.openarchives.org/OAI/2.0/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\n    <record \n    xsi:schemaLocation=\"http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"http://www.loc.gov/MARC21/slim\">\n      <leader>01012cam a2200277I 4500</leader>\n      <controlfield tag=\"005\">20231004000000.0</controlfield>\n      <datafield tag=\"010\" ind1=\" \" ind2=\" \">\n        <subfield code=\"a\">map48000736 </subfield>\n      </datafield>\n      <datafield tag=\"035\" ind1=\" \" ind2=\" \">\n        <subfield code=\"a\">sdr-uiuc.99247290812205899</subfield>\n      </datafield>\n      <datafield tag=\"035\" ind1=\" \" ind2=\" \">\n        <subfield code=\"a\">(UIUdb)2472908</subfield>\n      </datafield>\n      <datafield tag=\"035\" ind1=\" \" ind2=\" \">\n        <subfield code=\"a\">(OCoLC)13824847</subfield>\n      </datafield>\n      <datafield tag=\"035\" ind1=\" \" ind2=\" \">\n        <subfield code=\"a\">(UIU)Voyager2472908</subfield>\n      </datafield>\n      <datafield tag=\"110\" ind1=\"2\" ind2=\" \">\n        <subfield code=\"a\">Brock &amp; Company.</subfield>\n      </datafield>\n      <datafield tag=\"245\" ind1=\"1\" ind2=\"0\">\n        <subfield code=\"a\">Standard atlas of Champaign County, Illinois,</subfield>\n        <subfield code=\"b\">\n          including a plat book of the villages, cities and townships of the county. Map of the State, United States and world. Patrons directory ...\n        </subfield>\n      </datafield>\n      <datafield tag=\"260\" ind1=\" \" ind2=\" \">\n        <subfield code=\"a\">Chicago,</subfield>\n        <subfield code=\"c\">1929.</subfield>\n      </datafield>\n      <datafield tag=\"300\" ind1=\" \" ind2=\" \">\n        <subfield code=\"a\">95, xxii p (p. 7-[73] maps, part col.)</subfield>\n      </datafield>\n      <datafield tag=\"650\" ind1=\" \" ind2=\"0\">\n        <subfield code=\"a\">Real property</subfield>\n        <subfield code=\"z\">Illinois</subfield>\n        <subfield code=\"z\">Champaign County</subfield>\n      </datafield>\n      <datafield tag=\"651\" ind1=\" \" ind2=\"0\">\n        <subfield code=\"a\">Champaign County (Ill.)</subfield>\n      </datafield>\n      <datafield tag=\"856\" ind1=\"4\" ind2=\"1\">\n        <subfield code=\"u\">http://hdl.handle.net/2027/uiuc.99247290812205899</subfield>\n        <subfield code=\"z\"/>\n        <subfield code=\"x\">eContent</subfield>\n        <subfield code=\"r\">pd</subfield>\n      </datafield>\n</record>\n</metadata>\n  <about>\n    <request verb=\"ListRecords\" metadataPrefix=\"marc21\" set=\"hathitrust:pdus\"/>\n    <resumptionToken>\n      marc21.s(hathitrust:pdus).f(2013-08-01T00:00:00Z).u(2026-06-23T21:23:33Z):3420500-3596200-AoEpMTAzMDMwNDIy\n    </resumptionToken>\n    <responseDate>2026-06-24T00:19:10.123Z</responseDate>\n  </about>\n</record>"
+   },
+   "provider": {
+    "@id": "http://dp.la/api/contributor/hathi",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q3128305"
+    ],
+    "name": "HathiTrust"
+   },
+   "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+   "rightsCategory": "Unlimited Re-Use",
+   "sourceResource": {
+    "@id": "http://dp.la/api/items/b35d7d4066dbb76bff2ce7ab93eca613#SourceResource",
+    "creator": [
+     "Brock & Company"
+    ],
+    "date": [
+     {
+      "begin": "1929",
+      "displayDate": "1929",
+      "end": "1929"
+     }
+    ],
+    "extent": [
+     "95, xxii p (p. 7-[73] maps, part col.)"
+    ],
+    "format": [
+     "Language material"
+    ],
+    "identifier": [
+     "sdr-uiuc.99247290812205899",
+     "(UIUdb)2472908",
+     "(OCoLC)13824847",
+     "(UIU)Voyager2472908"
+    ],
+    "publisher": [
+     "Chicago"
+    ],
+    "rights": [
+     "Public domain. Learn more at http://www.hathitrust.org/access_use"
+    ],
+    "spatial": [
+     {
+      "name": "Champaign County (Ill.)"
+     },
+     {
+      "name": "Illinois"
+     },
+     {
+      "name": "Champaign County"
+     }
+    ],
+    "subject": [
+     {
+      "name": "Real property--Illinois--Champaign County"
+     },
+     {
+      "name": "Champaign County (Ill.)"
+     }
+    ],
+    "title": [
+     "Standard atlas of Champaign County, Illinois, including a plat book of the villages, cities and townships of the county. Map of the State, United States and world. Patrons directory..."
+    ],
+    "type": [
+     "text"
+    ]
+   }
+  }
+ ]
+}

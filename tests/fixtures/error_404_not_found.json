@@ -1,0 +1,5 @@
+{
+ "error": "not_found",
+ "message": "The record you are searching for could not be found.",
+ "documentation": "https://pro.dp.la/developers/responses#errors"
+}

@@ -1,0 +1,151 @@
+{
+ "count": 20,
+ "docs": [
+  {
+   "dataProvider": {
+    "@id": "http://dp.la/api/contributor/rosenberg-library",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q7368534"
+    ],
+    "name": "Rosenberg Library"
+   },
+   "id": "8875b2794f3059a6d30cf64cd9a30025",
+   "iiifManifest": "https://texashistory.unt.edu/ark:/67531/metapth636853/manifest/",
+   "isShownAt": "https://texashistory.unt.edu/ark:/67531/metapth636853/",
+   "object": "https://texashistory.unt.edu/ark:/67531/metapth636853/small/",
+   "provider": {
+    "@id": "http://dp.la/api/contributor/the_portal_to_texas_history",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q83878505"
+    ],
+    "name": "The Portal to Texas History"
+   },
+   "sourceResource.creator": "Heller, John H",
+   "sourceResource.date.displayDate": "1870",
+   "sourceResource.rights": "The contents of The Portal to Texas History (digital content including images, text, and sound and video recordings) are made publicly available by the collection-holding partners for use in research, teaching, and private study. For the full terms of use, see https://texashistory.unt.edu/terms-of-use/",
+   "sourceResource.spatial": {
+    "name": "United States - Texas - Galveston County - Galveston"
+   },
+   "sourceResource.title": "Galveston City Directory, 1870",
+   "sourceResource.type": "text"
+  },
+  {
+   "dataProvider": {
+    "@id": "http://dp.la/api/contributor/rosenberg-library",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q7368534"
+    ],
+    "name": "Rosenberg Library"
+   },
+   "id": "f28171723bbf425a201fa16108724ba5",
+   "iiifManifest": "https://texashistory.unt.edu/ark:/67531/metapth1309638/manifest/",
+   "isShownAt": "https://texashistory.unt.edu/ark:/67531/metapth1309638/",
+   "object": "https://texashistory.unt.edu/ark:/67531/metapth1309638/small/",
+   "provider": {
+    "@id": "http://dp.la/api/contributor/the_portal_to_texas_history",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q83878505"
+    ],
+    "name": "The Portal to Texas History"
+   },
+   "sourceResource.creator": "R.L. Polk & Co",
+   "sourceResource.date.displayDate": "1916",
+   "sourceResource.rights": "The contents of The Portal to Texas History (digital content including images, text, and sound and video recordings) are made publicly available by the collection-holding partners for use in research, teaching, and private study. For the full terms of use, see https://texashistory.unt.edu/terms-of-use/",
+   "sourceResource.spatial": {
+    "name": "United States - Texas - Galveston County - Galveston"
+   },
+   "sourceResource.title": "Galveston City Directory 1916",
+   "sourceResource.type": "text"
+  },
+  {
+   "dataProvider": {
+    "@id": "http://dp.la/api/contributor/rosenberg-library",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q7368534"
+    ],
+    "name": "Rosenberg Library"
+   },
+   "id": "6e6c0b897bde19f8d6764d0042138efd",
+   "iiifManifest": "https://texashistory.unt.edu/ark:/67531/metapth636856/manifest/",
+   "isShownAt": "https://texashistory.unt.edu/ark:/67531/metapth636856/",
+   "object": "https://texashistory.unt.edu/ark:/67531/metapth636856/small/",
+   "provider": {
+    "@id": "http://dp.la/api/contributor/the_portal_to_texas_history",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q83878505"
+    ],
+    "name": "The Portal to Texas History"
+   },
+   "sourceResource.creator": "Heller, John H",
+   "sourceResource.date.displayDate": "1872",
+   "sourceResource.rights": "The contents of The Portal to Texas History (digital content including images, text, and sound and video recordings) are made publicly available by the collection-holding partners for use in research, teaching, and private study. For the full terms of use, see https://texashistory.unt.edu/terms-of-use/",
+   "sourceResource.spatial": {
+    "name": "United States - Texas - Galveston County - Galveston"
+   },
+   "sourceResource.title": "Galveston City Directory, 1872",
+   "sourceResource.type": "text"
+  },
+  {
+   "dataProvider": {
+    "@id": "http://dp.la/api/contributor/rosenberg-library",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q7368534"
+    ],
+    "name": "Rosenberg Library"
+   },
+   "id": "27056ac27c4d2beaf76090f48880998c",
+   "iiifManifest": "https://texashistory.unt.edu/ark:/67531/metapth636858/manifest/",
+   "isShownAt": "https://texashistory.unt.edu/ark:/67531/metapth636858/",
+   "object": "https://texashistory.unt.edu/ark:/67531/metapth636858/small/",
+   "provider": {
+    "@id": "http://dp.la/api/contributor/the_portal_to_texas_history",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q83878505"
+    ],
+    "name": "The Portal to Texas History"
+   },
+   "sourceResource.creator": "Heller, John H",
+   "sourceResource.date.displayDate": "1874",
+   "sourceResource.rights": "The contents of The Portal to Texas History (digital content including images, text, and sound and video recordings) are made publicly available by the collection-holding partners for use in research, teaching, and private study. For the full terms of use, see https://texashistory.unt.edu/terms-of-use/",
+   "sourceResource.spatial": {
+    "name": "United States - Texas - Galveston County - Galveston"
+   },
+   "sourceResource.title": "Heller's Galveston City Directory, 1874",
+   "sourceResource.type": "text"
+  },
+  {
+   "dataProvider": {
+    "@id": "http://dp.la/api/contributor/rosenberg-library",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q7368534"
+    ],
+    "name": "Rosenberg Library"
+   },
+   "id": "de40197136dddb618ee0a4666985bca4",
+   "iiifManifest": "https://texashistory.unt.edu/ark:/67531/metapth636884/manifest/",
+   "isShownAt": "https://texashistory.unt.edu/ark:/67531/metapth636884/",
+   "object": "https://texashistory.unt.edu/ark:/67531/metapth636884/small/",
+   "provider": {
+    "@id": "http://dp.la/api/contributor/the_portal_to_texas_history",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q83878505"
+    ],
+    "name": "The Portal to Texas History"
+   },
+   "sourceResource.creator": [
+    "Fayman, W. A",
+    "Reilly, T. W"
+   ],
+   "sourceResource.date.displayDate": "1875",
+   "sourceResource.rights": "The contents of The Portal to Texas History (digital content including images, text, and sound and video recordings) are made publicly available by the collection-holding partners for use in research, teaching, and private study. For the full terms of use, see https://texashistory.unt.edu/terms-of-use/",
+   "sourceResource.spatial": {
+    "name": "United States - Texas - Galveston County - Galveston"
+   },
+   "sourceResource.title": "Galveston City Directory, 1875-1876",
+   "sourceResource.type": "text"
+  }
+ ],
+ "facets": [],
+ "limit": 5,
+ "start": 1
+}

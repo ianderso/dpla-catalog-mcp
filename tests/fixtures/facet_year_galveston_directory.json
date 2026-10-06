@@ -1,0 +1,77 @@
+{
+ "count": 35,
+ "docs": [],
+ "facets": {
+  "sourceResource.date.begin.year": {
+   "_type": "date_histogram",
+   "entries": [
+    {
+     "count": 1,
+     "time": "1923"
+    },
+    {
+     "count": 1,
+     "time": "1921"
+    },
+    {
+     "count": 1,
+     "time": "1919"
+    },
+    {
+     "count": 1,
+     "time": "1916"
+    },
+    {
+     "count": 1,
+     "time": "1914"
+    },
+    {
+     "count": 1,
+     "time": "1913"
+    },
+    {
+     "count": 1,
+     "time": "1908"
+    },
+    {
+     "count": 1,
+     "time": "1905"
+    },
+    {
+     "count": 1,
+     "time": "1898"
+    },
+    {
+     "count": 1,
+     "time": "1875"
+    },
+    {
+     "count": 1,
+     "time": "1874"
+    },
+    {
+     "count": 1,
+     "time": "1872"
+    },
+    {
+     "count": 1,
+     "time": "1870"
+    },
+    {
+     "count": 1,
+     "time": "1868"
+    },
+    {
+     "count": 1,
+     "time": "1866"
+    },
+    {
+     "count": 2,
+     "time": "1859"
+    }
+   ]
+  }
+ },
+ "limit": 0,
+ "start": 1
+}

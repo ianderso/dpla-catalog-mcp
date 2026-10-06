@@ -1,0 +1,37 @@
+# Settings. .env holds local overrides; .env.example is the committed template.
+.env
+.env.*
+!.env.example
+.envrc
+
+# Response cache
+.cache/
+
+# Downloaded page images are never part of this repository.
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.tiff
+*.pdf
+ 
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+*.egg-info/
+
+# Tool caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store

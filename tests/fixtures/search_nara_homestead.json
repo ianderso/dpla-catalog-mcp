@@ -1,0 +1,63 @@
+{
+ "count": 2,
+ "docs": [
+  {
+   "dataProvider": {
+    "@id": "http://dp.la/api/contributor/national-archives-at-washington-dc---textual-reference",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q59661072"
+    ],
+    "name": "National Archives at Washington, DC - Textual Reference"
+   },
+   "id": "7a6cbfb9ff78ffa28fa8d836223f33b8",
+   "isShownAt": "http://catalog.archives.gov/id/4662607",
+   "object": "https://nara-media-001.s3.amazonaws.com/arcmedia/dc-metro/rg-393/635238/00475_2008_001_AC.jpg",
+   "provider": {
+    "@id": "http://dp.la/api/contributor/nara",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q518155"
+    ],
+    "name": "National Archives and Records Administration"
+   },
+   "rights": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+   "sourceResource.creator": "War Department. Fort Monroe, Virginia. 1823-9/18/1947",
+   "sourceResource.date.displayDate": "1880",
+   "sourceResource.format": [
+    "Paper",
+    "Loose Sheets"
+   ],
+   "sourceResource.rights": "Unrestricted",
+   "sourceResource.title": "Poster Advertising \"Indian Territory That Garden of the World, Open for Homestead and Pre-Emption\" in Current Day Oklahoma",
+   "sourceResource.type": "text"
+  },
+  {
+   "dataProvider": {
+    "@id": "http://dp.la/api/contributor/national-archives-at-college-park---still-pictures",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q59661040"
+    ],
+    "name": "National Archives at College Park - Still Pictures"
+   },
+   "id": "b3cb6f4a87f83442eb9378fd3db77273",
+   "isShownAt": "http://catalog.archives.gov/id/518267",
+   "object": "http://nara-media.s3.amazonaws.com/harvest/518267-00473/00473_2003_001_AC.jpg",
+   "provider": {
+    "@id": "http://dp.la/api/contributor/nara",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q518155"
+    ],
+    "name": "National Archives and Records Administration"
+   },
+   "rights": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+   "sourceResource.creator": "Federal Works Agency. Work Projects Administration. Division of Information. 7/1/1939-1943",
+   "sourceResource.date.displayDate": "1866",
+   "sourceResource.format": "Negative",
+   "sourceResource.rights": "Unrestricted",
+   "sourceResource.title": "Photograph of a Family with Their Covered Wagon During the Great Western Migration",
+   "sourceResource.type": "image"
+  }
+ ],
+ "facets": [],
+ "limit": 3,
+ "start": 1
+}

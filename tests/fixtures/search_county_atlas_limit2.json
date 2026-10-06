@@ -1,0 +1,68 @@
+{
+ "count": 15673,
+ "docs": [
+  {
+   "dataProvider": {
+    "@id": "http://dp.la/api/contributor/north-carolina-department-of-natural-and-cultural-resources",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q7054474"
+    ],
+    "name": "North Carolina Department of Natural and Cultural Resources"
+   },
+   "id": "cedc17f73248828b8b73fcbc9f7a82a9",
+   "isShownAt": "https://digital.ncdcr.gov/documents/detail/315340",
+   "object": "https://images.quartexcollections.com/ncdcr/thumbnails/preview/96f9dce4-186c-43c8-aadb-736bcb0eafc1",
+   "provider": {
+    "@id": "http://dp.la/api/contributor/digitalnc",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q83878492"
+    ],
+    "name": "North Carolina Digital Heritage Center"
+   },
+   "sourceResource.creator": "North Carolina. Office of the State Auditor",
+   "sourceResource.date.displayDate": "1885",
+   "sourceResource.format": [
+    "Forms (Documents)",
+    "Military records"
+   ],
+   "sourceResource.rights": "This item is provided courtesy of the State Archives of North Carolina and is a public record according to G.S.132.",
+   "sourceResource.spatial": {
+    "name": "Stanly County, North Carolina, United States"
+   },
+   "sourceResource.title": "Atlas Bolton (Stanly County)",
+   "sourceResource.type": "text"
+  },
+  {
+   "dataProvider": {
+    "@id": "http://dp.la/api/contributor/cincinnati-and-hamilton-county-public-library",
+    "name": "Cincinnati and Hamilton County Public Library"
+   },
+   "id": "fa499f4d2b69ad5969e6fa7242df4173",
+   "isShownAt": "http://digital.cincinnatilibrary.org/cdm/ref/collection/p16998coll9/id/2400",
+   "object": "http://digital.cincinnatilibrary.org/utils/getthumbnail/collection/p16998coll9/id/2400",
+   "provider": {
+    "@id": "http://dp.la/api/contributor/ohio",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q83878495"
+    ],
+    "name": "Ohio Digital Network"
+   },
+   "rights": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+   "sourceResource.date.displayDate": "1905",
+   "sourceResource.format": "Atlases",
+   "sourceResource.spatial": [
+    {
+     "name": "Ashtabula County (Ohio)"
+    },
+    {
+     "name": "41.939698, -80.721442"
+    }
+   ],
+   "sourceResource.title": "Ashtabula county atlas, 1905",
+   "sourceResource.type": "text"
+  }
+ ],
+ "facets": [],
+ "limit": 2,
+ "start": 1
+}

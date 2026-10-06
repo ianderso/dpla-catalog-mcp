@@ -1,0 +1,240 @@
+{
+ "count": 3,
+ "docs": [
+  {
+   "@context": "http://dp.la/api/items/context",
+   "@id": "http://dp.la/api/items/4917d2c8281726bc960e78330c17e5fe",
+   "@type": "ore:Aggregation",
+   "aggregatedCHO": "#sourceResource",
+   "dataProvider": {
+    "@id": "http://dp.la/api/contributor/university-of-illinois-urbana-champaign-library",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q22096046"
+    ],
+    "name": "University of Illinois Urbana-Champaign Library"
+   },
+   "id": "4917d2c8281726bc960e78330c17e5fe",
+   "iiifManifest": "https://digital.library.illinois.edu/items/465c93c0-6f6a-013b-43a3-02d0d7bfd6e4-c/manifest",
+   "ingestDate": "2026-08-19T02:13:02.602Z",
+   "ingestType": "item",
+   "isShownAt": "https://digital.library.illinois.edu/items/465c93c0-6f6a-013b-43a3-02d0d7bfd6e4-c",
+   "object": "https://images.digital.library.illinois.edu/iiif/2/8913b990-6f6c-013b-43a3-02d0d7bfd6e4-8/full/!150,150/0/default.jpg",
+   "originalRecord": {
+    "stringValue": "<record>\n  <header \n  xmlns=\"http://www.openarchives.org/OAI/2.0/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\n    <identifier>\n      oai:dpla-combine.carli.illinois.edu:uiuc_0a645010_ilcoatlases:oai:digital.library.illinois.edu:465c93c0-6f6a-013b-43a3-02d0d7bfd6e4-c\n    </identifier>\n    <datestamp>2026-08-13T13:49:54Z</datestamp>\n</header>\n  <metadata \n  xmlns=\"http://www.openarchives.org/OAI/2.0/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\n    <oai_idhh:idhh \n    xmlns:edm=\"http://www.europeana.eu/schemas/edm/\" xmlns:dcterms=\"http://purl.org/dc/terms/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:oai_idhh=\"https://digital.library.illinois.edu/oai-pmh/idhh/\">\n      <dc:title>Standard atlas of Champaign County, Illinois</dc:title>\n      <dcterms:provenance \n      xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:oai_qdc=\"http://worldcat.org/xmlschemas/qdc-1.0/\" xmlns:oaiProvenance=\"http://www.openarchives.org/OAI/2.0/provenance\">\n        University of Illinois Urbana-Champaign Library\n</dcterms:provenance>\n      <dc:creator>Brock &amp; Company</dc:creator>\n      <dc:date>1929</dc:date>\n      <dcterms:temporal>1920s</dcterms:temporal>\n      <dc:description>\n        Pages 19-22 come from the Library's copy 2. The atlas digitized from the Illinois History and Lincoln Collections lacks pages 19-22.\n      </dc:description>\n      <dc:language>English</dc:language>\n      <dc:publisher>Brock &amp; Company</dc:publisher>\n      <dcterms:isPartOf>Historic Illinois County Atlases</dcterms:isPartOf>\n      <dc:rights>No Copyright - United States</dc:rights>\n      <edm:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</edm:rights>\n      <dcterms:accessRights>This item is in the public domain.</dcterms:accessRights>\n      <dc:type>Image</dc:type>\n      <dc:identifier>99247290812205899</dc:identifier>\n      <dc:identifier>\n        https://digital.library.illinois.edu/items/465c93c0-6f6a-013b-43a3-02d0d7bfd6e4-c\n      </dc:identifier>\n      <edm:isShownAt>\n        https://digital.library.illinois.edu/items/465c93c0-6f6a-013b-43a3-02d0d7bfd6e4-c\n      </edm:isShownAt>\n      <edm:preview>\n        https://images.digital.library.illinois.edu/iiif/2/8913b990-6f6c-013b-43a3-02d0d7bfd6e4-8/full/!150,150/0/default.jpg\n      </edm:preview>\n      <dcterms:isReferencedBy>\n        https://digital.library.illinois.edu/items/465c93c0-6f6a-013b-43a3-02d0d7bfd6e4-c/manifest\n      </dcterms:isReferencedBy>\n      <edm:iiifManifest>\n        https://digital.library.illinois.edu/items/465c93c0-6f6a-013b-43a3-02d0d7bfd6e4-c/manifest\n      </edm:iiifManifest>\n</oai_idhh:idhh>\n</metadata>\n  <about>\n    <request verb=\"ListRecords\" metadataPrefix=\"qdc\"/>\n    <responseDate>2026-08-13T13:49:53.842Z</responseDate>\n  </about>\n</record>"
+   },
+   "provider": {
+    "@id": "http://dp.la/api/contributor/il",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q83878467"
+    ],
+    "name": "Illinois Digital Heritage Hub"
+   },
+   "rights": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+   "rightsCategory": "Unlimited Re-Use",
+   "sourceResource": {
+    "@id": "http://dp.la/api/items/4917d2c8281726bc960e78330c17e5fe#SourceResource",
+    "collection": [
+     {
+      "title": "Historic Illinois County Atlases"
+     }
+    ],
+    "creator": [
+     "Brock & Company"
+    ],
+    "date": [
+     {
+      "begin": "1929",
+      "displayDate": "1929",
+      "end": "1929"
+     }
+    ],
+    "description": [
+     "Pages 19-22 come from the Library's copy 2. The atlas digitized from the Illinois History and Lincoln Collections lacks pages 19-22."
+    ],
+    "language": [
+     {
+      "iso639_3": "English",
+      "name": "English"
+     }
+    ],
+    "rights": [
+     "No Copyright - United States"
+    ],
+    "temporal": [
+     {
+      "displayDate": "1920s"
+     }
+    ],
+    "title": [
+     "Standard atlas of Champaign County, Illinois"
+    ],
+    "type": [
+     "image"
+    ]
+   },
+   "tags": [
+    "iiif"
+   ]
+  },
+  {
+   "@context": "http://dp.la/api/items/context",
+   "@id": "http://dp.la/api/items/83690f4313d1804c1631c46f038a0366",
+   "@type": "ore:Aggregation",
+   "aggregatedCHO": "#sourceResource",
+   "dataProvider": {
+    "@id": "http://dp.la/api/contributor/university-of-illinois-urbana-champaign-library",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q22096046"
+    ],
+    "name": "University of Illinois Urbana-Champaign Library"
+   },
+   "id": "83690f4313d1804c1631c46f038a0366",
+   "iiifManifest": "https://digital.library.illinois.edu/items/d04bd730-cda6-013b-46a1-02d0d7bfd6e4-0/manifest",
+   "ingestDate": "2026-08-19T02:13:02.602Z",
+   "ingestType": "item",
+   "isShownAt": "https://digital.library.illinois.edu/items/d04bd730-cda6-013b-46a1-02d0d7bfd6e4-0",
+   "object": "https://images.digital.library.illinois.edu/iiif/2/cb8c1ce0-cda9-013b-46a1-02d0d7bfd6e4-3/full/!150,150/0/default.jpg",
+   "originalRecord": {
+    "stringValue": "<record>\n  <header \n  xmlns=\"http://www.openarchives.org/OAI/2.0/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\n    <identifier>\n      oai:dpla-combine.carli.illinois.edu:uiuc_0a645010_ilcoatlases:oai:digital.library.illinois.edu:d04bd730-cda6-013b-46a1-02d0d7bfd6e4-0\n    </identifier>\n    <datestamp>2026-08-13T13:49:54Z</datestamp>\n</header>\n  <metadata \n  xmlns=\"http://www.openarchives.org/OAI/2.0/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\n    <oai_idhh:idhh \n    xmlns:edm=\"http://www.europeana.eu/schemas/edm/\" xmlns:dcterms=\"http://purl.org/dc/terms/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:oai_idhh=\"https://digital.library.illinois.edu/oai-pmh/idhh/\">\n      <dc:title>Standard atlas of Champaign county, Illinois</dc:title>\n      <dcterms:provenance \n      xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:oai_qdc=\"http://worldcat.org/xmlschemas/qdc-1.0/\" xmlns:oaiProvenance=\"http://www.openarchives.org/OAI/2.0/provenance\">\n        University of Illinois Urbana-Champaign Library\n</dcterms:provenance>\n      <dc:creator>Geo. A. Ogle &amp; Co.</dc:creator>\n      <dc:date>1913</dc:date>\n      <dcterms:temporal>1910s</dcterms:temporal>\n      <dcterms:extent>42x45 cm</dcterms:extent>\n      <dc:language>English</dc:language>\n      <dc:publisher>Geo. A. Ogle &amp; Co.</dc:publisher>\n      <dcterms:isPartOf>Historic Illinois County Atlases</dcterms:isPartOf>\n      <dc:rights>No Copyright - United States</dc:rights>\n      <edm:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</edm:rights>\n      <dc:type>Image</dc:type>\n      <dc:identifier>99247290912205899</dc:identifier>\n      <dc:identifier>\n        https://digital.library.illinois.edu/items/d04bd730-cda6-013b-46a1-02d0d7bfd6e4-0\n      </dc:identifier>\n      <edm:isShownAt>\n        https://digital.library.illinois.edu/items/d04bd730-cda6-013b-46a1-02d0d7bfd6e4-0\n      </edm:isShownAt>\n      <edm:preview>\n        https://images.digital.library.illinois.edu/iiif/2/cb8c1ce0-cda9-013b-46a1-02d0d7bfd6e4-3/full/!150,150/0/default.jpg\n      </edm:preview>\n      <dcterms:isReferencedBy>\n        https://digital.library.illinois.edu/items/d04bd730-cda6-013b-46a1-02d0d7bfd6e4-0/manifest\n      </dcterms:isReferencedBy>\n      <edm:iiifManifest>\n        https://digital.library.illinois.edu/items/d04bd730-cda6-013b-46a1-02d0d7bfd6e4-0/manifest\n      </edm:iiifManifest>\n</oai_idhh:idhh>\n</metadata>\n  <about>\n    <request verb=\"ListRecords\" metadataPrefix=\"qdc\"/>\n    <responseDate>2026-08-13T13:49:53.842Z</responseDate>\n  </about>\n</record>"
+   },
+   "provider": {
+    "@id": "http://dp.la/api/contributor/il",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q83878467"
+    ],
+    "name": "Illinois Digital Heritage Hub"
+   },
+   "rights": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+   "rightsCategory": "Unlimited Re-Use",
+   "sourceResource": {
+    "@id": "http://dp.la/api/items/83690f4313d1804c1631c46f038a0366#SourceResource",
+    "collection": [
+     {
+      "title": "Historic Illinois County Atlases"
+     }
+    ],
+    "creator": [
+     "Geo. A. Ogle & Co"
+    ],
+    "date": [
+     {
+      "begin": "1913",
+      "displayDate": "1913",
+      "end": "1913"
+     }
+    ],
+    "language": [
+     {
+      "iso639_3": "English",
+      "name": "English"
+     }
+    ],
+    "rights": [
+     "No Copyright - United States"
+    ],
+    "temporal": [
+     {
+      "displayDate": "1910s"
+     }
+    ],
+    "title": [
+     "Standard atlas of Champaign county, Illinois"
+    ],
+    "type": [
+     "image"
+    ]
+   },
+   "tags": [
+    "iiif"
+   ]
+  },
+  {
+   "@context": "http://dp.la/api/items/context",
+   "@id": "http://dp.la/api/items/b35d7d4066dbb76bff2ce7ab93eca613",
+   "@type": "ore:Aggregation",
+   "aggregatedCHO": "#sourceResource",
+   "dataProvider": {
+    "@id": "http://dp.la/api/contributor/university-of-illinois",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q457281"
+    ],
+    "name": "University of Illinois"
+   },
+   "id": "b35d7d4066dbb76bff2ce7ab93eca613",
+   "ingestDate": "2026-08-19T02:02:07.522Z",
+   "ingestType": "item",
+   "isShownAt": "http://catalog.hathitrust.org/Record/103030935",
+   "originalRecord": {
+    "stringValue": "<record>\n  <header \n  xmlns=\"http://www.openarchives.org/OAI/2.0/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\n    <identifier>oai:hathitrust.org:103030935</identifier>\n    <datestamp>2025-01-17T00:00:00Z</datestamp>\n    <setSpec>hathitrust:pd</setSpec>\n    <setSpec>hathitrust:pdus</setSpec>\n    <setSpec>hathitrust</setSpec>\n</header>\n  <metadata \n  xmlns=\"http://www.openarchives.org/OAI/2.0/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\n    <record \n    xsi:schemaLocation=\"http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"http://www.loc.gov/MARC21/slim\">\n      <leader>01012cam a2200277I 4500</leader>\n      <controlfield tag=\"005\">20231004000000.0</controlfield>\n      <datafield tag=\"010\" ind1=\" \" ind2=\" \">\n        <subfield code=\"a\">map48000736 </subfield>\n      </datafield>\n      <datafield tag=\"035\" ind1=\" \" ind2=\" \">\n        <subfield code=\"a\">sdr-uiuc.99247290812205899</subfield>\n      </datafield>\n      <datafield tag=\"035\" ind1=\" \" ind2=\" \">\n        <subfield code=\"a\">(UIUdb)2472908</subfield>\n      </datafield>\n      <datafield tag=\"035\" ind1=\" \" ind2=\" \">\n        <subfield code=\"a\">(OCoLC)13824847</subfield>\n      </datafield>\n      <datafield tag=\"035\" ind1=\" \" ind2=\" \">\n        <subfield code=\"a\">(UIU)Voyager2472908</subfield>\n      </datafield>\n      <datafield tag=\"110\" ind1=\"2\" ind2=\" \">\n        <subfield code=\"a\">Brock &amp; Company.</subfield>\n      </datafield>\n      <datafield tag=\"245\" ind1=\"1\" ind2=\"0\">\n        <subfield code=\"a\">Standard atlas of Champaign County, Illinois,</subfield>\n        <subfield code=\"b\">\n          including a plat book of the villages, cities and townships of the county. Map of the State, United States and world. Patrons directory ...\n        </subfield>\n      </datafield>\n      <datafield tag=\"260\" ind1=\" \" ind2=\" \">\n        <subfield code=\"a\">Chicago,</subfield>\n        <subfield code=\"c\">1929.</subfield>\n      </datafield>\n      <datafield tag=\"300\" ind1=\" \" ind2=\" \">\n        <subfield code=\"a\">95, xxii p (p. 7-[73] maps, part col.)</subfield>\n      </datafield>\n      <datafield tag=\"650\" ind1=\" \" ind2=\"0\">\n        <subfield code=\"a\">Real property</subfield>\n        <subfield code=\"z\">Illinois</subfield>\n        <subfield code=\"z\">Champaign County</subfield>\n      </datafield>\n      <datafield tag=\"651\" ind1=\" \" ind2=\"0\">\n        <subfield code=\"a\">Champaign County (Ill.)</subfield>\n      </datafield>\n      <datafield tag=\"856\" ind1=\"4\" ind2=\"1\">\n        <subfield code=\"u\">http://hdl.handle.net/2027/uiuc.99247290812205899</subfield>\n        <subfield code=\"z\"/>\n        <subfield code=\"x\">eContent</subfield>\n        <subfield code=\"r\">pd</subfield>\n      </datafield>\n</record>\n</metadata>\n  <about>\n    <request verb=\"ListRecords\" metadataPrefix=\"marc21\" set=\"hathitrust:pdus\"/>\n    <resumptionToken>\n      marc21.s(hathitrust:pdus).f(2013-08-01T00:00:00Z).u(2026-06-23T21:23:33Z):3420500-3596200-AoEpMTAzMDMwNDIy\n    </resumptionToken>\n    <responseDate>2026-06-24T00:19:10.123Z</responseDate>\n  </about>\n</record>"
+   },
+   "provider": {
+    "@id": "http://dp.la/api/contributor/hathi",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q3128305"
+    ],
+    "name": "HathiTrust"
+   },
+   "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+   "rightsCategory": "Unlimited Re-Use",
+   "sourceResource": {
+    "@id": "http://dp.la/api/items/b35d7d4066dbb76bff2ce7ab93eca613#SourceResource",
+    "creator": [
+     "Brock & Company"
+    ],
+    "date": [
+     {
+      "begin": "1929",
+      "displayDate": "1929",
+      "end": "1929"
+     }
+    ],
+    "extent": [
+     "95, xxii p (p. 7-[73] maps, part col.)"
+    ],
+    "format": [
+     "Language material"
+    ],
+    "identifier": [
+     "sdr-uiuc.99247290812205899",
+     "(UIUdb)2472908",
+     "(OCoLC)13824847",
+     "(UIU)Voyager2472908"
+    ],
+    "publisher": [
+     "Chicago"
+    ],
+    "rights": [
+     "Public domain. Learn more at http://www.hathitrust.org/access_use"
+    ],
+    "spatial": [
+     {
+      "name": "Champaign County (Ill.)"
+     },
+     {
+      "name": "Illinois"
+     },
+     {
+      "name": "Champaign County"
+     }
+    ],
+    "subject": [
+     {
+      "name": "Real property--Illinois--Champaign County"
+     },
+     {
+      "name": "Champaign County (Ill.)"
+     }
+    ],
+    "title": [
+     "Standard atlas of Champaign County, Illinois, including a plat book of the villages, cities and townships of the county. Map of the State, United States and world. Patrons directory..."
+    ],
+    "type": [
+     "text"
+    ]
+   }
+  }
+ ],
+ "facets": [],
+ "limit": null,
+ "start": null
+}

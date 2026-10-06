@@ -1,0 +1,5 @@
+{
+ "error": "bad_request",
+ "message": "q must be between 2 and 200 characters",
+ "documentation": "https://pro.dp.la/developers/responses#errors"
+}

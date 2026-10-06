@@ -1,0 +1,241 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "type": "Manifest",
+ "id": "https://collections.dartmouth.edu/archive/iiif/nh-cities-towns/nh-cities-towns-northumberland-1793-mods.json",
+ "label": {
+  "en": [
+   "Map of Northumberland"
+  ]
+ },
+ "start": {
+  "type": "Canvas",
+  "id": "https://collections.dartmouth.edu/archive/iiif/nh-cities-towns/nh-cities-towns-northumberland-1793-mods.json/canvas/nhct-northumberland-1793-001"
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Digital Collection"
+    ]
+   },
+   "value": {
+    "en": [
+     "New Hampshire's Towns & Cities in Maps"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Name"
+    ]
+   },
+   "value": {
+    "en": [
+     "Eames, Jeremiah."
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "en": [
+     "Dartmouth Digital Library Program"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Publication/Creation Date"
+    ]
+   },
+   "value": {
+    "en": [
+     "1793"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Extent"
+    ]
+   },
+   "value": {
+    "en": [
+     "1 online resource (1 map)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Language"
+    ]
+   },
+   "value": {
+    "en": [
+     "English"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Repository"
+    ]
+   },
+   "value": {
+    "en": [
+     "Evans Map Room"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Permalink"
+    ]
+   },
+   "value": {
+    "en": [
+     "https://doi.org/10.1349/ddlp.2112"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Rights"
+    ]
+   },
+   "value": {
+    "en": [
+     "No Copyright - United States"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Extent of Digitization"
+    ]
+   },
+   "value": {
+    "en": [
+     "Fully available"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Digital Publication"
+    ]
+   },
+   "value": {
+    "en": [
+     "Hanover, N.H. : Trustees of Dartmouth College, 2019"
+    ]
+   }
+  }
+ ],
+ "homepage": [
+  {
+   "type": "Text",
+   "id": "https://doi.org/10.1349/ddlp.2112",
+   "label": {
+    "en": [
+     "Map of Northumberland"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "provider": [
+  {
+   "type": "Agent",
+   "id": "https://www.library.dartmouth.edu/digital/digital-collections",
+   "label": {
+    "en": [
+     "Digital by Dartmouth Libraries"
+    ]
+   }
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "en": [
+    "Attribution"
+   ]
+  },
+  "value": {
+   "en": [
+    "Courtesy of Digital by Dartmouth Libraries"
+   ]
+  }
+ },
+ "rights": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+ "items": [
+  {
+   "type": "Canvas",
+   "id": "https://collections.dartmouth.edu/archive/iiif/nh-cities-towns/nh-cities-towns-northumberland-1793-mods.json/canvas/nhct-northumberland-1793-001",
+   "height": 5315,
+   "width": 7054,
+   "label": {
+    "en": [
+     "nhct-northumberland-1793-001.tif"
+    ]
+   },
+   "thumbnail": [
+    {
+     "type": "Image",
+     "id": "https://collections.dartmouth.edu/xcdas-api/iiif/nh-cities-towns/tiff_pyr/nhct-northumberland-1793-001.tif/full/max/0/default.jpg",
+     "format": "image/jpeg",
+     "height": 150,
+     "width": 150,
+     "service": [
+      {
+       "@context": "http://iiif.io/api/image/3/context.json",
+       "id": "https://collections.dartmouth.edu/xcdas-api/iiif/nh-cities-towns/tiff_pyr/nhct-northumberland-1793-001.tif",
+       "type": "ImageService3",
+       "profile": "level2"
+      }
+     ]
+    }
+   ],
+   "items": [
+    {
+     "type": "AnnotationPage",
+     "id": "https://collections.dartmouth.edu/archive/iiif/nh-cities-towns/nh-cities-towns-northumberland-1793-mods.json/annotation-page/nhct-northumberland-1793-001",
+     "items": [
+      {
+       "type": "Annotation",
+       "id": "https://collections.dartmouth.edu/archive/iiif/nh-cities-towns/nh-cities-towns-northumberland-1793-mods.json/annotation/nhct-northumberland-1793-001",
+       "motivation": "painting",
+       "target": "https://collections.dartmouth.edu/archive/iiif/nh-cities-towns/nh-cities-towns-northumberland-1793-mods.json/canvas/nhct-northumberland-1793-001",
+       "body": {
+        "type": "Image",
+        "id": "https://collections.dartmouth.edu/xcdas-api/iiif/nh-cities-towns/tiff_pyr/nhct-northumberland-1793-001.tif/full/max/0/default.jpg",
+        "format": "image/jpeg",
+        "service": [
+         {
+          "@context": "http://iiif.io/api/image/3/context.json",
+          "id": "https://collections.dartmouth.edu/xcdas-api/iiif/nh-cities-towns/tiff_pyr/nhct-northumberland-1793-001.tif",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,484 @@
+{
+ "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/manifest/",
+ "@context": "http://iiif.io/api/presentation/2/context.json",
+ "@type": "sc:Manifest",
+ "label": "Galveston City Directory, 1870",
+ "description": "General directory for Galveston, Texas includes address listings for businesses and individuals as well as advertisements from local businesses. According to the title page, it contains \"a complete and reliable business and residence directory.\"",
+ "metadata": [
+  {
+   "label": "title",
+   "value": "Galveston City Directory, 1870"
+  },
+  {
+   "label": "creator",
+   "value": "Heller, John H."
+  },
+  {
+   "label": "publisher",
+   "value": "John H. Heller"
+  },
+  {
+   "label": "date",
+   "value": "1870"
+  },
+  {
+   "label": "language",
+   "value": "eng"
+  },
+  {
+   "label": "description.content",
+   "value": "General directory for Galveston, Texas includes address listings for businesses and individuals as well as advertisements from local businesses. According to the title page, it contains \"a complete and reliable business and residence directory.\""
+  },
+  {
+   "label": "description.physical",
+   "value": "151 p. ; 21 cm."
+  },
+  {
+   "label": "subject.LCSH",
+   "value": "Galveston (Tex.) -- Directories."
+  },
+  {
+   "label": "subject.UNTL-BS",
+   "value": "Business, Economics and Finance - Communications"
+  },
+  {
+   "label": "subject.UNTL-BS",
+   "value": "Places - United States - Texas - Galveston County - Galveston"
+  },
+  {
+   "label": "subject.UNTL-BS",
+   "value": "Social Life and Customs - Clubs and Organizations"
+  },
+  {
+   "label": "subject.KWD",
+   "value": "advertisements"
+  },
+  {
+   "label": "subject.KWD",
+   "value": "phone books"
+  },
+  {
+   "label": "primarySource",
+   "value": "1"
+  },
+  {
+   "label": "coverage.placeName",
+   "value": "United States - Texas - Galveston County - Galveston"
+  },
+  {
+   "label": "coverage.date",
+   "value": "1870"
+  },
+  {
+   "label": "coverage.timePeriod",
+   "value": "civ-war"
+  },
+  {
+   "label": "collection",
+   "value": "SG14"
+  },
+  {
+   "label": "collection",
+   "value": "CIT"
+  },
+  {
+   "label": "institution",
+   "value": "ROSEL"
+  },
+  {
+   "label": "resourceType",
+   "value": "text_book"
+  },
+  {
+   "label": "format",
+   "value": "text"
+  }
+ ],
+ "thumbnail": {
+  "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/thumbnail/",
+  "@type": "dctypes:Image",
+  "width": 53,
+  "height": 90,
+  "format": "image/jpeg"
+ },
+ "navDate": "1870-01-01T00:00:00Z",
+ "seeAlso": {
+  "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/metadata.untl.xml",
+  "format": "text/xml",
+  "label": "UNTL Descriptive Metadata"
+ },
+ "related": {
+  "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/",
+  "format": "text/html",
+  "label": "HTML page for the resource"
+ },
+ "within": [
+  "https://texashistory.unt.edu/explore/collections/SG14/top/",
+  "https://texashistory.unt.edu/explore/collections/CIT/top/",
+  "https://texashistory.unt.edu/explore/partners/ROSEL/top/"
+ ],
+ "logo": "https://texashistory.unt.edu/pth/media/assets/public/images/pth/iiif/logo.png",
+ "license": "https://texashistory.unt.edu/terms-of-use/",
+ "attribution": "Galveston & Texas History Center, Rosenberg Library - The Portal to Texas History",
+ "sequences": [
+  {
+   "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/sequence/",
+   "@type": "sc:Sequence",
+   "canvases": [
+    {
+     "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/1/canvas/",
+     "@type": "sc:Canvas",
+     "label": "Front Cover",
+     "width": 1500,
+     "height": 2535,
+     "images": [
+      {
+       "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/1/image/",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "resource": {
+        "@id": "https://texashistory.unt.edu/iiif/ark:/67531/metapth636853/m1/1/full/max/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "service": {
+         "@id": "https://texashistory.unt.edu/iiif/ark:/67531/metapth636853/m1/1",
+         "@context": "http://iiif.io/api/presentation/2/context.json",
+         "profile": "http://iiif.io/api/image/2/level2.json"
+        },
+        "width": 1500,
+        "height": 2535
+       },
+       "on": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/1/canvas/"
+      }
+     ],
+     "otherContent": [
+      {
+       "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/1/annotations/",
+       "@type": "sc:AnnotationList"
+      },
+      {
+       "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/1/annotations/ocr/",
+       "@type": "sc:AnnotationList"
+      }
+     ],
+     "thumbnail": {
+      "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/1/thumbnail/",
+      "@type": "dctypes:Image",
+      "width": 53,
+      "height": 90,
+      "format": "image/jpeg"
+     }
+    },
+    {
+     "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/2/canvas/",
+     "@type": "sc:Canvas",
+     "label": "Front Inside",
+     "width": 1500,
+     "height": 2534,
+     "images": [
+      {
+       "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/2/image/",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "resource": {
+        "@id": "https://texashistory.unt.edu/iiif/ark:/67531/metapth636853/m1/2/full/max/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "service": {
+         "@id": "https://texashistory.unt.edu/iiif/ark:/67531/metapth636853/m1/2",
+         "@context": "http://iiif.io/api/presentation/2/context.json",
+         "profile": "http://iiif.io/api/image/2/level2.json"
+        },
+        "width": 1500,
+        "height": 2534
+       },
+       "on": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/2/canvas/"
+      }
+     ],
+     "otherContent": [
+      {
+       "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/2/annotations/",
+       "@type": "sc:AnnotationList"
+      },
+      {
+       "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/2/annotations/ocr/",
+       "@type": "sc:AnnotationList"
+      }
+     ],
+     "thumbnail": {
+      "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/2/thumbnail/",
+      "@type": "dctypes:Image",
+      "width": 53,
+      "height": 90,
+      "format": "image/jpeg"
+     }
+    },
+    {
+     "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/3/canvas/",
+     "@type": "sc:Canvas",
+     "label": "3",
+     "width": 1500,
+     "height": 2417,
+     "images": [
+      {
+       "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/3/image/",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "resource": {
+        "@id": "https://texashistory.unt.edu/iiif/ark:/67531/metapth636853/m1/3/full/max/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "service": {
+         "@id": "https://texashistory.unt.edu/iiif/ark:/67531/metapth636853/m1/3",
+         "@context": "http://iiif.io/api/presentation/2/context.json",
+         "profile": "http://iiif.io/api/image/2/level2.json"
+        },
+        "width": 1500,
+        "height": 2417
+       },
+       "on": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/3/canvas/"
+      }
+     ],
+     "otherContent": [
+      {
+       "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/3/annotations/",
+       "@type": "sc:AnnotationList"
+      },
+      {
+       "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/3/annotations/ocr/",
+       "@type": "sc:AnnotationList"
+      }
+     ],
+     "thumbnail": {
+      "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/3/thumbnail/",
+      "@type": "dctypes:Image",
+      "width": 56,
+      "height": 90,
+      "format": "image/jpeg"
+     }
+    },
+    {
+     "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/4/canvas/",
+     "@type": "sc:Canvas",
+     "label": "4",
+     "width": 1500,
+     "height": 2400,
+     "images": [
+      {
+       "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/4/image/",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "resource": {
+        "@id": "https://texashistory.unt.edu/iiif/ark:/67531/metapth636853/m1/4/full/max/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "service": {
+         "@id": "https://texashistory.unt.edu/iiif/ark:/67531/metapth636853/m1/4",
+         "@context": "http://iiif.io/api/presentation/2/context.json",
+         "profile": "http://iiif.io/api/image/2/level2.json"
+        },
+        "width": 1500,
+        "height": 2400
+       },
+       "on": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/4/canvas/"
+      }
+     ],
+     "otherContent": [
+      {
+       "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/4/annotations/",
+       "@type": "sc:AnnotationList"
+      },
+      {
+       "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/4/annotations/ocr/",
+       "@type": "sc:AnnotationList"
+      }
+     ],
+     "thumbnail": {
+      "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/4/thumbnail/",
+      "@type": "dctypes:Image",
+      "width": 56,
+      "height": 90,
+      "format": "image/jpeg"
+     }
+    },
+    {
+     "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/5/canvas/",
+     "@type": "sc:Canvas",
+     "label": "5",
+     "width": 1500,
+     "height": 2436,
+     "images": [
+      {
+       "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/5/image/",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "resource": {
+        "@id": "https://texashistory.unt.edu/iiif/ark:/67531/metapth636853/m1/5/full/max/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "service": {
+         "@id": "https://texashistory.unt.edu/iiif/ark:/67531/metapth636853/m1/5",
+         "@context": "http://iiif.io/api/presentation/2/context.json",
+         "profile": "http://iiif.io/api/image/2/level2.json"
+        },
+        "width": 1500,
+        "height": 2436
+       },
+       "on": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/5/canvas/"
+      }
+     ],
+     "otherContent": [
+      {
+       "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/5/annotations/",
+       "@type": "sc:AnnotationList"
+      },
+      {
+       "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/5/annotations/ocr/",
+       "@type": "sc:AnnotationList"
+      }
+     ],
+     "thumbnail": {
+      "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/5/thumbnail/",
+      "@type": "dctypes:Image",
+      "width": 55,
+      "height": 90,
+      "format": "image/jpeg"
+     }
+    },
+    {
+     "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/6/canvas/",
+     "@type": "sc:Canvas",
+     "label": "6",
+     "width": 1500,
+     "height": 2416,
+     "images": [
+      {
+       "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/6/image/",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "resource": {
+        "@id": "https://texashistory.unt.edu/iiif/ark:/67531/metapth636853/m1/6/full/max/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "service": {
+         "@id": "https://texashistory.unt.edu/iiif/ark:/67531/metapth636853/m1/6",
+         "@context": "http://iiif.io/api/presentation/2/context.json",
+         "profile": "http://iiif.io/api/image/2/level2.json"
+        },
+        "width": 1500,
+        "height": 2416
+       },
+       "on": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/6/canvas/"
+      }
+     ],
+     "otherContent": [
+      {
+       "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/6/annotations/",
+       "@type": "sc:AnnotationList"
+      },
+      {
+       "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/6/annotations/ocr/",
+       "@type": "sc:AnnotationList"
+      }
+     ],
+     "thumbnail": {
+      "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/6/thumbnail/",
+      "@type": "dctypes:Image",
+      "width": 56,
+      "height": 90,
+      "format": "image/jpeg"
+     }
+    },
+    {
+     "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/7/canvas/",
+     "@type": "sc:Canvas",
+     "label": "7",
+     "width": 1500,
+     "height": 2431,
+     "images": [
+      {
+       "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/7/image/",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "resource": {
+        "@id": "https://texashistory.unt.edu/iiif/ark:/67531/metapth636853/m1/7/full/max/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "service": {
+         "@id": "https://texashistory.unt.edu/iiif/ark:/67531/metapth636853/m1/7",
+         "@context": "http://iiif.io/api/presentation/2/context.json",
+         "profile": "http://iiif.io/api/image/2/level2.json"
+        },
+        "width": 1500,
+        "height": 2431
+       },
+       "on": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/7/canvas/"
+      }
+     ],
+     "otherContent": [
+      {
+       "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/7/annotations/",
+       "@type": "sc:AnnotationList"
+      },
+      {
+       "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/7/annotations/ocr/",
+       "@type": "sc:AnnotationList"
+      }
+     ],
+     "thumbnail": {
+      "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/7/thumbnail/",
+      "@type": "dctypes:Image",
+      "width": 56,
+      "height": 90,
+      "format": "image/jpeg"
+     }
+    },
+    {
+     "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/8/canvas/",
+     "@type": "sc:Canvas",
+     "label": "8",
+     "width": 1500,
+     "height": 2420,
+     "images": [
+      {
+       "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/8/image/",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "resource": {
+        "@id": "https://texashistory.unt.edu/iiif/ark:/67531/metapth636853/m1/8/full/max/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "service": {
+         "@id": "https://texashistory.unt.edu/iiif/ark:/67531/metapth636853/m1/8",
+         "@context": "http://iiif.io/api/presentation/2/context.json",
+         "profile": "http://iiif.io/api/image/2/level2.json"
+        },
+        "width": 1500,
+        "height": 2420
+       },
+       "on": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/8/canvas/"
+      }
+     ],
+     "otherContent": [
+      {
+       "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/8/annotations/",
+       "@type": "sc:AnnotationList"
+      },
+      {
+       "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/8/annotations/ocr/",
+       "@type": "sc:AnnotationList"
+      }
+     ],
+     "thumbnail": {
+      "@id": "https://texashistory.unt.edu/ark:/67531/metapth636853/m1/8/thumbnail/",
+      "@type": "dctypes:Image",
+      "width": 56,
+      "height": 90,
+      "format": "image/jpeg"
+     }
+    }
+   ]
+  }
+ ],
+ "_trimmed_note": "Recorded 2026-10-05 with 152 canvases; trimmed to the first 8 for size."
+}

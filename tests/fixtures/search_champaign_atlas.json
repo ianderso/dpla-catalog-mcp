@@ -1,0 +1,235 @@
+{
+ "count": 7,
+ "docs": [
+  {
+   "dataProvider": {
+    "@id": "http://dp.la/api/contributor/university-of-illinois-urbana-champaign-library",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q22096046"
+    ],
+    "name": "University of Illinois Urbana-Champaign Library"
+   },
+   "id": "1adb031a796949af64bd86e99cf0b3da",
+   "iiifManifest": "https://digital.library.illinois.edu/items/2cef73e0-fe25-0139-7ab5-02d0d7bfd6e4-7/manifest",
+   "isShownAt": "https://digital.library.illinois.edu/items/2cef73e0-fe25-0139-7ab5-02d0d7bfd6e4-7",
+   "object": "https://images.digital.library.illinois.edu/iiif/2/518419a0-fe25-0139-7ab5-02d0d7bfd6e4-5/full/!150,150/0/default.jpg",
+   "provider": {
+    "@id": "http://dp.la/api/contributor/il",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q83878467"
+    ],
+    "name": "Illinois Digital Heritage Hub"
+   },
+   "rights": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+   "sourceResource.creator": "Goodell, Hubert Ellis",
+   "sourceResource.date.displayDate": "1951",
+   "sourceResource.rights": "No Copyright - United States",
+   "sourceResource.spatial": {
+    "name": "Champaign County (Ill.)"
+   },
+   "sourceResource.title": "Atlas of Champaign County, Illinois",
+   "sourceResource.type": "image"
+  },
+  {
+   "dataProvider": {
+    "@id": "http://dp.la/api/contributor/university-of-illinois-urbana-champaign-library",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q22096046"
+    ],
+    "name": "University of Illinois Urbana-Champaign Library"
+   },
+   "id": "a3f741ebbe63d70ff355ad15bb8bda7f",
+   "iiifManifest": "https://digital.library.illinois.edu/items/2d435dd0-fe25-0139-7ab5-02d0d7bfd6e4-6/manifest",
+   "isShownAt": "https://digital.library.illinois.edu/items/2d435dd0-fe25-0139-7ab5-02d0d7bfd6e4-6",
+   "object": "https://images.digital.library.illinois.edu/iiif/2/6bbf4450-fe2c-0139-7ab5-02d0d7bfd6e4-3/full/!150,150/0/default.jpg",
+   "provider": {
+    "@id": "http://dp.la/api/contributor/il",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q83878467"
+    ],
+    "name": "Illinois Digital Heritage Hub"
+   },
+   "rights": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+   "sourceResource.creator": "Clark, A.W",
+   "sourceResource.date.displayDate": "1943",
+   "sourceResource.rights": "No Copyright - United States",
+   "sourceResource.spatial": {
+    "name": "Champaign County (Ill.)"
+   },
+   "sourceResource.title": "Atlas of Champaign County, Illinois",
+   "sourceResource.type": "image"
+  },
+  {
+   "dataProvider": {
+    "@id": "http://dp.la/api/contributor/university-of-illinois-urbana-champaign-library",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q22096046"
+    ],
+    "name": "University of Illinois Urbana-Champaign Library"
+   },
+   "id": "4917d2c8281726bc960e78330c17e5fe",
+   "iiifManifest": "https://digital.library.illinois.edu/items/465c93c0-6f6a-013b-43a3-02d0d7bfd6e4-c/manifest",
+   "isShownAt": "https://digital.library.illinois.edu/items/465c93c0-6f6a-013b-43a3-02d0d7bfd6e4-c",
+   "object": "https://images.digital.library.illinois.edu/iiif/2/8913b990-6f6c-013b-43a3-02d0d7bfd6e4-8/full/!150,150/0/default.jpg",
+   "provider": {
+    "@id": "http://dp.la/api/contributor/il",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q83878467"
+    ],
+    "name": "Illinois Digital Heritage Hub"
+   },
+   "rights": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+   "sourceResource.creator": "Brock & Company",
+   "sourceResource.date.displayDate": "1929",
+   "sourceResource.rights": "No Copyright - United States",
+   "sourceResource.title": "Standard atlas of Champaign County, Illinois",
+   "sourceResource.type": "image"
+  },
+  {
+   "dataProvider": {
+    "@id": "http://dp.la/api/contributor/university-of-illinois",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q457281"
+    ],
+    "name": "University of Illinois"
+   },
+   "id": "e4fcb1ac6ba72001573a201f8ffac83a",
+   "isShownAt": "http://catalog.hathitrust.org/Record/100319166",
+   "provider": {
+    "@id": "http://dp.la/api/contributor/hathi",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q3128305"
+    ],
+    "name": "HathiTrust"
+   },
+   "rights": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+   "sourceResource.creator": "CLARK, A. W",
+   "sourceResource.date.displayDate": "1943",
+   "sourceResource.format": "Language material",
+   "sourceResource.rights": "Public domain only when viewed in the US. Learn more at http://www.hathitrust.org/access_use",
+   "sourceResource.spatial": [
+    {
+     "name": "Champaign County (Ill.)"
+    },
+    {
+     "name": "Illinois"
+    },
+    {
+     "name": "Champaign County"
+    }
+   ],
+   "sourceResource.title": "Atlas of Champaign County, Illinois, 1943",
+   "sourceResource.type": "text"
+  },
+  {
+   "dataProvider": {
+    "@id": "http://dp.la/api/contributor/university-of-illinois-urbana-champaign-library",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q22096046"
+    ],
+    "name": "University of Illinois Urbana-Champaign Library"
+   },
+   "id": "83690f4313d1804c1631c46f038a0366",
+   "iiifManifest": "https://digital.library.illinois.edu/items/d04bd730-cda6-013b-46a1-02d0d7bfd6e4-0/manifest",
+   "isShownAt": "https://digital.library.illinois.edu/items/d04bd730-cda6-013b-46a1-02d0d7bfd6e4-0",
+   "object": "https://images.digital.library.illinois.edu/iiif/2/cb8c1ce0-cda9-013b-46a1-02d0d7bfd6e4-3/full/!150,150/0/default.jpg",
+   "provider": {
+    "@id": "http://dp.la/api/contributor/il",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q83878467"
+    ],
+    "name": "Illinois Digital Heritage Hub"
+   },
+   "rights": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+   "sourceResource.creator": "Geo. A. Ogle & Co",
+   "sourceResource.date.displayDate": "1913",
+   "sourceResource.rights": "No Copyright - United States",
+   "sourceResource.title": "Standard atlas of Champaign county, Illinois",
+   "sourceResource.type": "image"
+  },
+  {
+   "dataProvider": {
+    "@id": "http://dp.la/api/contributor/university-of-illinois",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q457281"
+    ],
+    "name": "University of Illinois"
+   },
+   "id": "b35d7d4066dbb76bff2ce7ab93eca613",
+   "isShownAt": "http://catalog.hathitrust.org/Record/103030935",
+   "provider": {
+    "@id": "http://dp.la/api/contributor/hathi",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q3128305"
+    ],
+    "name": "HathiTrust"
+   },
+   "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+   "sourceResource.creator": "Brock & Company",
+   "sourceResource.date.displayDate": "1929",
+   "sourceResource.format": "Language material",
+   "sourceResource.rights": "Public domain. Learn more at http://www.hathitrust.org/access_use",
+   "sourceResource.spatial": [
+    {
+     "name": "Champaign County (Ill.)"
+    },
+    {
+     "name": "Illinois"
+    },
+    {
+     "name": "Champaign County"
+    }
+   ],
+   "sourceResource.title": "Standard atlas of Champaign County, Illinois, including a plat book of the villages, cities and townships of the county. Map of the State, United States and world. Patrons directory...",
+   "sourceResource.type": "text"
+  },
+  {
+   "dataProvider": {
+    "@id": "http://dp.la/api/contributor/david-rumsey",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q1176427"
+    ],
+    "name": "David Rumsey"
+   },
+   "id": "92d81ae211b4dcf2eef05f4495ac6fe8",
+   "isShownAt": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~4155~460057",
+   "object": "https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/D0046/00464057.jpg",
+   "provider": {
+    "@id": "http://dp.la/api/contributor/david_rumsey",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q1176427"
+    ],
+    "name": "David Rumsey"
+   },
+   "rights": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+   "sourceResource.creator": [
+    "Union Atlas Co",
+    "Warner & Beers"
+   ],
+   "sourceResource.date.displayDate": "1876",
+   "sourceResource.format": [
+    "Full Image Download in MrSID Format",
+    "43",
+    "32"
+   ],
+   "sourceResource.rights": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported",
+   "sourceResource.spatial": [
+    {
+     "name": "Champaign County (Ill.)"
+    },
+    {
+     "name": "Illinois"
+    }
+   ],
+   "sourceResource.title": [
+    "Map of Champaign County. (Union Atlas Co., Warner & Beers, Proprietors. Lakeside Building Cor: of Clark & Adams Sts. Chicago. 1876. Entered ... 1876 by Warner & Beers ... Washington D.C.)",
+    "Atlas of the State of Illinois to which are added various general maps, history, statistics and illustrations. Union Atlas Co., Warner & Beers, Proprietors. Lakeside Building Cor: of Clark & Adams Sts. Chicago. 1876. Entered ... 1876 by Warner & Beers ... Washington D.C.",
+    "Map of Champaign County."
+   ],
+   "sourceResource.type": "image"
+  }
+ ],
+ "facets": [],
+ "limit": 10,
+ "start": 1
+}

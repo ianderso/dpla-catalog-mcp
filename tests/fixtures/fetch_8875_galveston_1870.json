@@ -1,0 +1,106 @@
+{
+ "count": 1,
+ "docs": [
+  {
+   "@context": "http://dp.la/api/items/context",
+   "@id": "http://dp.la/api/items/8875b2794f3059a6d30cf64cd9a30025",
+   "@type": "ore:Aggregation",
+   "aggregatedCHO": "#sourceResource",
+   "dataProvider": {
+    "@id": "http://dp.la/api/contributor/rosenberg-library",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q7368534"
+    ],
+    "name": "Rosenberg Library"
+   },
+   "id": "8875b2794f3059a6d30cf64cd9a30025",
+   "iiifManifest": "https://texashistory.unt.edu/ark:/67531/metapth636853/manifest/",
+   "ingestDate": "2026-08-26T01:03:55.953Z",
+   "ingestType": "item",
+   "isShownAt": "https://texashistory.unt.edu/ark:/67531/metapth636853/",
+   "object": "https://texashistory.unt.edu/ark:/67531/metapth636853/small/",
+   "originalRecord": {
+    "stringValue": "<record>\n  <header \n  xmlns=\"http://www.openarchives.org/OAI/2.0/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\n    <identifier>info:ark/67531/metapth636853</identifier>\n    <datestamp>2015-08-30T00:10:24Z</datestamp>\n    <setSpec>partner:ROSEL</setSpec>\n    <setSpec>collection:SG14</setSpec>\n    <setSpec>collection:CIT</setSpec>\n    <setSpec>access_rights:public</setSpec>\n</header>\n  <metadata \n  xmlns=\"http://www.openarchives.org/OAI/2.0/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\n    <untl:metadata xmlns:untl=\"http://digital2.library.unt.edu/untl/\">\n      <untl:title qualifier=\"officialtitle\">\n        Galveston City Directory, 1870\n      </untl:title>\n      <untl:creator qualifier=\"com\">\n        <untl:info>Compiler and publisher</untl:info>\n        <untl:name>Heller, John H.</untl:name>\n        <untl:type>per</untl:type>\n      </untl:creator>\n      <untl:publisher>\n        <untl:location>Galveston, Texas</untl:location>\n        <untl:name>John H. Heller</untl:name>\n      </untl:publisher>\n      <untl:date qualifier=\"creation\">1870</untl:date>\n      <untl:language>eng</untl:language>\n      <untl:description qualifier=\"content\">\n        General directory for Galveston, Texas includes address listings for businesses and individuals as well as advertisements from local businesses. According to the title page, it contains &quot;a complete and reliable business and residence directory.&quot;\n      </untl:description>\n      <untl:description qualifier=\"physical\">151 p. ; 21 cm.</untl:description>\n      <untl:subject qualifier=\"LCSH\">Galveston (Tex.) -- Directories.</untl:subject>\n      <untl:subject qualifier=\"UNTL-BS\">\n        Business, Economics and Finance - Communications\n      </untl:subject>\n      <untl:subject qualifier=\"UNTL-BS\">\n        Places - United States - Texas - Galveston County - Galveston\n      </untl:subject>\n      <untl:subject qualifier=\"UNTL-BS\">\n        Social Life and Customs - Clubs and Organizations\n      </untl:subject>\n      <untl:subject qualifier=\"KWD\">advertisements</untl:subject>\n      <untl:subject qualifier=\"KWD\">phone books</untl:subject>\n      <untl:primarySource>1</untl:primarySource>\n      <untl:coverage qualifier=\"placeName\">\n        United States - Texas - Galveston County - Galveston\n      </untl:coverage>\n      <untl:coverage qualifier=\"date\">1870</untl:coverage>\n      <untl:coverage qualifier=\"timePeriod\">civ-war</untl:coverage>\n      <untl:collection>SG14</untl:collection>\n      <untl:collection>CIT</untl:collection>\n      <untl:institution>ROSEL</untl:institution>\n      <untl:rights qualifier=\"note\">\n        The contents of The Portal to Texas History (digital content including images, text, and sound and video recordings) are made publicly available by the collection-holding partners for use in research, teaching, and private study. For the full terms of use, see https://texashistory.unt.edu/terms-of-use/\n      </untl:rights>\n      <untl:resourceType>text_book</untl:resourceType>\n      <untl:format>text</untl:format>\n      <untl:identifier qualifier=\"itemURL\">\n        https://texashistory.unt.edu/ark:/67531/metapth636853/\n      </untl:identifier>\n      <untl:identifier qualifier=\"thumbnailURL\">\n        https://texashistory.unt.edu/ark:/67531/metapth636853/small/\n      </untl:identifier>\n      <untl:identifier qualifier=\"ARK\">ark:/67531/metapth636853</untl:identifier>\n      <untl:identifier qualifier=\"iiif-manifest\">\n        https://texashistory.unt.edu/ark:/67531/metapth636853/manifest/\n      </untl:identifier>\n      <untl:meta qualifier=\"hidden\">False</untl:meta>\n      <untl:meta qualifier=\"metadataCreator\">lcarter</untl:meta>\n      <untl:meta qualifier=\"system\">PTH</untl:meta>\n      <untl:meta qualifier=\"ark\">ark:/67531/metapth636853</untl:meta>\n      <untl:meta qualifier=\"metadataCreationDate\">2015-08-30, 00:10:24</untl:meta>\n    </untl:metadata>\n</metadata>\n  <about>\n    <request verb=\"ListRecords\" metadataPrefix=\"untl_dpla\"/>\n    <resumptionToken>\n      metadataPrefix%3Duntl_dpla%26batch_size%3D1001%26cursor%3D636000\n    </resumptionToken>\n    <responseDate>2026-08-25T22:46:21.041Z</responseDate>\n  </about>\n</record>"
+   },
+   "provider": {
+    "@id": "http://dp.la/api/contributor/the_portal_to_texas_history",
+    "exactMatch": [
+     "http://www.wikidata.org/entity/Q83878505"
+    ],
+    "name": "The Portal to Texas History"
+   },
+   "rightsCategory": "Unspecified Rights Status",
+   "sourceResource": {
+    "@id": "http://dp.la/api/items/8875b2794f3059a6d30cf64cd9a30025#SourceResource",
+    "creator": [
+     "Heller, John H"
+    ],
+    "date": [
+     {
+      "begin": "1870",
+      "displayDate": "1870",
+      "end": "1870"
+     }
+    ],
+    "description": [
+     "General directory for Galveston, Texas includes address listings for businesses and individuals as well as advertisements from local businesses. According to the title page, it contains \"a complete and reliable business and residence directory.\"",
+     "151 p. ; 21 cm."
+    ],
+    "identifier": [
+     "https://texashistory.unt.edu/ark:/67531/metapth636853/",
+     "https://texashistory.unt.edu/ark:/67531/metapth636853/small/",
+     "ark:/67531/metapth636853",
+     "https://texashistory.unt.edu/ark:/67531/metapth636853/manifest/"
+    ],
+    "language": [
+     {
+      "iso639_3": "Eng",
+      "name": "English"
+     }
+    ],
+    "publisher": [
+     "Galveston, Texas: John H. Heller"
+    ],
+    "rights": [
+     "The contents of The Portal to Texas History (digital content including images, text, and sound and video recordings) are made publicly available by the collection-holding partners for use in research, teaching, and private study. For the full terms of use, see https://texashistory.unt.edu/terms-of-use/"
+    ],
+    "spatial": [
+     {
+      "name": "United States - Texas - Galveston County - Galveston"
+     }
+    ],
+    "subject": [
+     {
+      "name": "Galveston (Tex.) -- Directories",
+      "scheme": "http://id.loc.gov/authorities#conceptscheme"
+     },
+     {
+      "name": "Business, Economics and Finance - Communications"
+     },
+     {
+      "name": "Places - United States - Texas - Galveston County - Galveston"
+     },
+     {
+      "name": "Social Life and Customs - Clubs and Organizations"
+     },
+     {
+      "name": "Advertisements"
+     },
+     {
+      "name": "Phone books"
+     }
+    ],
+    "title": [
+     "Galveston City Directory, 1870"
+    ],
+    "type": [
+     "text"
+    ]
+   },
+   "tags": [
+    "texas",
+    "iiif"
+   ]
+  }
+ ]
+}

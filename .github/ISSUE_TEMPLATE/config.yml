@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/ianderso/dpla-catalog-mcp/security/advisories/new
+    about: Privately, not in a public issue. See SECURITY.md.
+  - name: A problem with DPLA itself
+    url: https://pro.dp.la/developers
+    about: This project does not operate DPLA. API outages and key problems go to DPLA; a wrong description goes to the institution that holds the item.

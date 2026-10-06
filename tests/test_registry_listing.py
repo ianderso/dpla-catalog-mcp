@@ -49,3 +49,8 @@ def test_the_key_is_required_and_secret_and_nothing_else_is():
         expected = name == "DPLA_API_KEY"
         assert bool(var.get("isRequired")) is expected, name
         assert bool(var.get("isSecret")) is expected, name
+
+
+def test_the_description_fits_the_registry_limit():
+    """The MCP Registry refuses a description over 100 characters, after PyPI has the release."""
+    assert len(SERVER_JSON["description"]) <= 100

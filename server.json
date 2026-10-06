@@ -2,18 +2,18 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.ianderso/dpla-catalog-mcp",
   "title": "DPLA Catalog",
-  "description": "Search the Digital Public Library of America and reach the holding institution's record and page images.",
+  "description": "Search the Digital Public Library of America; reach the holding institution's record and images.",
   "repository": {
     "url": "https://github.com/ianderso/dpla-catalog-mcp",
     "source": "github"
   },
-  "version": "0.1.0",
+  "version": "0.1.1",
   "packages": [
     {
       "registryType": "pypi",
       "registryBaseUrl": "https://pypi.org",
       "identifier": "dpla-catalog-mcp",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "runtimeHint": "uvx",
       "transport": {
         "type": "stdio"

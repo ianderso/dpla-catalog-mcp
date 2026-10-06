@@ -8,4 +8,4 @@ nothing here keeps a family tree: pair it with genealogy software or a tree
 server for that.
 """
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
